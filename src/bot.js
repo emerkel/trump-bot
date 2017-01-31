@@ -7,8 +7,8 @@ var strings = require('./helpers/strings')
 var Twitter = new twit(config)
 
 // Frequency in minutes
-var retweetFrequency = 5
-var favoriteFrequency = 5
+var retweetFrequency = 25
+var favoriteFrequency = 25
 
 // RANDOM QUERY STRING  =========================
 
