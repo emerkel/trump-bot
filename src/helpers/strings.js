@@ -3,7 +3,9 @@ module.exports = {
         '#resist',
         '#Resistance',
         '#ResistTrump',
-        '#Trumpism'
+        '#Trumpism',
+        '#alternativefacts',
+        '#alternativefactsarenotfacts'
     ],
     queryStringSubQuery: [
         ''
